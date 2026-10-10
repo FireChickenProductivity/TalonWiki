@@ -223,7 +223,7 @@ These commands will open up a CSV or [Talon list](Customization/talon_lists.md) 
 
 ### Customizing Symbols
 
-The first column of the symbol customization CSV has the symbol. The second column has the mode that line applies to, such as "command", "dictation", or "both" to apply to both modes. The rest of the columns give options for what you say to dictate the symbol.
+The first column of the symbol customization CSV has the symbol. The second column has the mode that line applies to, such as "command", "dictation", or "both" to apply to both modes. The rest of the columns have options for what you can say to dictate the symbol.
 
 ## Working with applications
 
